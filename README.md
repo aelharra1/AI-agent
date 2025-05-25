@@ -2,7 +2,7 @@
 
 # Projet LLM Engineering - Agents Web et CSV
 
-Développement d'agents intelligents pour l'extraction d'informations web et l'analyse de données CSV utilisant smolagents et langchain.
+Développement d'agents intelligents pour l'extraction d'informations web et l'analyse de données CSV en utilisant smolagents et langchain.
 
 ## Description
 
